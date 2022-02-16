@@ -1,3 +1,0 @@
-C:\Users\11joe\source\repos\Final Project\Final Project\Debug\Final Project.vcxprojAssemblyReference.cache
-C:\Users\11joe\source\repos\Final Project\Final Project\Debug\FinalProject.MyForm.resources
-C:\Users\11joe\source\repos\Final Project\Final Project\Debug\Final Project.vcxproj.GenerateResource.cache
